@@ -67,4 +67,8 @@ Additional fields that are associated with GELF fields:
 *   Further testing of different events.
 *   Check errno maps to the correct severity level when used as an errorHandler.
 
+## License
+
+TBC, will probably be MIT.
+
 [gelf-php]: https://github.com/Graylog2/gelf-php
